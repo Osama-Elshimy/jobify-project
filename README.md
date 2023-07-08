@@ -30,3 +30,5 @@ Jobify is a full-stack MERN (MongoDB, Express, React, Node.js) project that allo
 - HTML/CSS: Standard web technologies used for structuring and styling the application.
 - JavaScript: The primary programming language used for the application's functionality.
 - Chart.js: A JavaScript library for creating responsive and customizable charts.
+  
+## [Live Demo](https://jobify-vcx2.onrender.com/)  
